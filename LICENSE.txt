@@ -1,22 +1,15 @@
- 
+This code is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
- => FREE HTML TEMPLATE LICENSE BY HTML Codex
+You may:
+- Use and share the code **as-is** for **non-commercial purposes**
+- Use it **only with attribution** to the original author
 
- All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author’s credit link/attribution link/backlink.
+You may not:
+- Use this code for **commercial purposes**
+- **Modify** or create derivative works from this code
+- Distribute modified versions of the code
 
- When you download or use our free HTML templates, it will attribute the following conditions.
+To view the full license, visit:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-
- => YOU ARE ALLOWED
-
-      1. You are allowed to use for your personal and commercial purposes.
-
-      2. You are allowed to modify/customize however you like.
-
-      3. You are allowed to convert/port for use for any CMS.
-
-      4. You are allowed to share/distribute under the HTML Codex brand name.
-
-      5. You are allowed to put a screenshot or a link on your blog posts or any other websites.
-
-
+For commercial use or other inquiries, contact: ravariyaraj@gmail.com
